@@ -1,0 +1,15 @@
+{
+  "name": "liquexmvp",
+  "version": "1.0.0",
+  "description": "Web Application of Cryptocurrency Exchange with",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Joshua Armah",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
